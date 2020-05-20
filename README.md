@@ -70,7 +70,7 @@
 
 #### CO2EMISSIONS Vs ENGINESIZE
 
-![CO2EMISSIONS Vs ENGINESIZE](https://github.com/AkashSDas/Predict-CO2-Emissions/blob/master/project-results-images/im2.png)
+![CO2EMISSIONS Vs ENGINESIZE](https://github.com/AkashSDas/Predict-CO2-Emissions/blob/master/project-results-images/img2.png)
 
 #### Learning Curve
 
